@@ -1,0 +1,1 @@
+i'm trying to understand how libraries actually work. so, i created this project that works as a graphical window (actually, it only works on Windows right now, i could try to create it on Linux, but that will happen when i understand how libraries work)
