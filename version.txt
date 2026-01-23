@@ -1,4 +1,4 @@
 project_version : {
-    lib_version = 1.0.1.1.1.1
+    lib_version = 1.0
     dll_version = 0
 }
